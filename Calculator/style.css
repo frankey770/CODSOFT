@@ -1,0 +1,41 @@
+.outer{
+    margin:10em;
+    width:32em;
+    height:31.8em;
+    border:2px solid black;
+    border-radius:1px;
+    margin:auto;
+
+}
+.display{
+    background-color:rgb(148, 124, 128);
+    height:10em;
+    background-size:contain;
+    margin:auto;
+}
+table th{
+    width:10rem;
+    height:4rem;
+    
+}
+table th:hover{
+    box-shadow:2px 7px 5px grey ;
+    
+}
+table tr th:hover{
+    
+    border:1.5px solid;
+}
+table tr th:hover{
+    background-color:rgb(255, 78, 78);
+    }
+.dis{
+    font-size:1.1rem;
+    
+}
+#disp{
+    margin:auto;
+}
+.a{
+    border-radius:3000rem;
+}
